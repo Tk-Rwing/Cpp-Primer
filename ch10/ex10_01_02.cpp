@@ -14,11 +14,7 @@
 //
 
 
-#include <iostream>
-#include <string>
-#include <vector>
-#include <algorithm>
-#include <list>
+#incclude<bits/stdc++.h>
 
 
 int main()
