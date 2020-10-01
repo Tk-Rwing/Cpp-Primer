@@ -17,12 +17,7 @@
 //
 
 
-#include <iostream>
-#include <vector>
-#include <list>
-#include <string>
-#include "Blob.h"
-#include "blobptr.h"
+#incclude<bits/stdc++.h>
 
 int main()
 {
