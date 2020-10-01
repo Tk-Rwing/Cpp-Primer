@@ -14,12 +14,8 @@
 // members use a DebugDelete as their deleter (§ 12.1.4, p. 468).
 //
 
-#include <iostream>
-#include <vector>
-#include <list>
-
+#incclude<bits/stdc++.h>
 #include "DebugDelete.h"
-#include <memory>
 
 #include "wy_queryresult.h"
 #include "wy_textquery.h"
