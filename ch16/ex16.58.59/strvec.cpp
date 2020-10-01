@@ -6,7 +6,7 @@
  ***************************************************************************/
 
 #include "strvec.h"
-#include <memory>
+#incclude<bits/stdc++.h>
 
 
 // copy constructor
