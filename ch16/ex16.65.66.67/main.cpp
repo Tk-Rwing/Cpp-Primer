@@ -26,10 +26,7 @@
 //  specializations do not affect function matching.
 //
 
-#include <iostream>
-#include <vector>
-#include <cstring>
-#include <sstream>
+#incclude<bits/stdc++.h>
 
 // template
 template <typename T>
