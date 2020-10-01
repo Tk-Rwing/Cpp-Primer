@@ -17,9 +17,7 @@
 // needed.
 //    According to  the chapter of 14.2.1, the class of << and <<  should be a friend of this class.
 //
-
-#include "Screen.h"
-#include <iostream>
+#incclude<bits/stdc++.h>
 
 int main()
 {
