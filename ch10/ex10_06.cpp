@@ -6,9 +6,7 @@
 //
 //  @Brief  Using fill_n, write a program to set a sequence of int values to 0.
 
-#include <iostream>
-#include <vector>
-#include <algorithm>
+#incclude<bits/stdc++.h>
 
 using std::vector; using std::cout; using std::endl; using std::fill_n;
 
