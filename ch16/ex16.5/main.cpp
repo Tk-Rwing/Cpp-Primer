@@ -13,8 +13,7 @@
 // element type.
 //
 
-#include <iostream>
-#include <string>
+#incclude<bits/stdc++.h>
 
 template<typename Arr>
 void print(Arr const& arr)
