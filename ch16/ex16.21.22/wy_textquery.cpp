@@ -15,8 +15,7 @@
 #include "wy_textquery.h"
 #include "wy_queryresult.h"
 #include "DebugDelete.h"
-#include <sstream>
-#include <algorithm>
+#incclude<bits/stdc++.h>
 
 /**
  *  Constructor
