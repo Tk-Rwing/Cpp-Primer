@@ -24,11 +24,9 @@
 //
 //
 
-#include <iostream>
+#incclude<bits/stdc++.h>
 using std::cout;
 using std::endl;
-
-#include <vector>
 using std::vector;
 
 class Sales_data{ };
