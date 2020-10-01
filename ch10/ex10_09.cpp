@@ -8,10 +8,7 @@
 // the call to erase.
 //
 
-#include <iostream>
-#include <string>
-#include <vector>
-#include <algorithm>
+#include<bits/stdc++.h>
 
 // print containers like vector, deque, list, etc.
 template<typename Sequence>
