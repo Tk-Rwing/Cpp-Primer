@@ -74,9 +74,7 @@
 
 
 
-#include <iostream>
-#include <vector>
-#include <string>
+#incclude<bits/stdc++.h>
 
 template <typename T>
 void g(T&& val)
