@@ -11,11 +11,7 @@
 //  Check below.
 //
 
-#include <iostream>
-#include <string>
-#include <vector>
-#include <algorithm>
-#include <numeric>
+#incclude<bits/stdc++.h>
 
 int main()
 {
